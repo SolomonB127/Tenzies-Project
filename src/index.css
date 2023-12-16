@@ -54,7 +54,9 @@ body {
 .die--num{
   font-size: 2rem;
 }
-
+.die--body{
+  margin: 15px 10px 10px 10px ;
+}
 .roll--dice{
   height: 50px;
     width: 150px;
